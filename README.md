@@ -1,1 +1,5 @@
-<a href="https://www.perplexity.ai/page/your-page-link" target="_blank">Visit My Perplexity Page</a>
+<iframe src="https://www.perplexity.ai/page/mattress-sizes-_3Ly3TLlS5CDfJwtHA4Npw" 
+        width="100%" 
+        height="600" 
+        style="border:none;" 
+        title="Mattress Sizes"></iframe>
